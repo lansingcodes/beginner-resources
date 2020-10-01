@@ -1,5 +1,5 @@
 # Beginner Resources
-Beginner-resources is a repository designed to help beginners get started in the exciting world of web development. You will find here helpful tools and resources to get your started on your journey to becoming the best web developer you can be. Whether it's for front-end or back-end development, this repository will help.
+Beginner-resources is a repository designed to help beginners get started in the exciting world of web development. You will find here helpful tools and resources to get you started on your journey to becoming the best web developer you can be. Whether it's for front-end or back-end development, this repository will help.
 
 ## Code of Conduct
 
