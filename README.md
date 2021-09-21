@@ -25,7 +25,7 @@ All participants are expected to treat others with respect and follow our [Code 
 
 ## Questions
 
-For general support, direct your questions to the[Lansing Codes Slack team](http://slack.lansing.codes). 
+For general support, direct your questions to the [Lansing Codes Slack team](http://slack.lansing.codes). 
 
 ## Stay in touch
 
