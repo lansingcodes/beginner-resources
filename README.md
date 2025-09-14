@@ -3,17 +3,18 @@
 Beginner-resources is a repository designed to help beginners get started in the exciting world of development. You will find here helpful tools and resources to get you started on your journey to becoming the best developer you can be. Whether it's for front-end, back-end, mobile development, or anything in between, this collection of resources will help.
 
 ### Web Development Basics:
-- [The Odin Project](https://www.theodinproject.com/) - The Odin Project is a full-stack curriculum designed to take one from a beginner to professional developer. It's completely free, and serves as a great roadmap to follow during your journey. The Odin Project's curriculum and website are open source, allowing anyone to gain experience by contributing on GitHub.
+- [The Odin Project](https://www.theodinproject.com/) - The Odin Project is a full-stack curriculum designed to take one from a beginner to professional developer. It's completely free, and serves as a great roadmap to follow during your journey. The Odin Project's curriculum and website are open source, allowing anyone to gain experience by contributing to their GitHub repositories.
 
-- [freeCodeCamp](https://www.freecodecamp.org/) - FreeCodeCamp is home to a full-stack web development curriculum among other programming topics. Here you can learn about technology by completing coding challenges and building projects. Courses from their YouTube channel are cross-posted to their website, along with articles written by fellow developers. There is also a community forum that works to help people learn to code, develop professional contacts, and serves as a Q&A board. FreeCodeCamp's services are also open source, so one can gain experience by contributing to their GitHub repositories. The repositories for many of the cross-posted courses are open sourced as well, offering a great selection to contribute to. FreeCodeCamp is a donor supported non-profit, and every aspect is 100% free.
+- [freeCodeCamp](https://www.freecodecamp.org/) - FreeCodeCamp is home to a full-stack web development curriculum among other programming specializations. Here you can learn about technology by completing code challenges and by building projects. Courses from their YouTube channel are cross-posted to their website, along with articles written by fellow developers. There is also a community forum that works to help people learn to code, develop professional contacts, and serves as a Q&A board. FreeCodeCamp's services are also open source, so one can gain experience by contributing to their GitHub repositories. The repositories for many of the cross-posted courses are open sourced as well, presenting a great selection of projects to contribute to. FreeCodeCamp is a donor supported non-profit, and every aspect is 100% free.
 
-- [Mozilla Developer Network's Learn Modules](https://developer.mozilla.org/en-US/docs/Learn_web_development) - Mozilla, the creators of the FireFox browser, have created a comprehensive set of learning materials for web technologies. Their curriculum covers web technologies to very granular depths, and is great for those who are new to the web. Mozilla's Developer Network is also home to reference documentation about various web technologies.
+- [Mozilla Developer Network's Learn Modules](https://developer.mozilla.org/en-US/docs/Learn_web_development) - Mozilla, the creators of the FireFox browser, have created a comprehensive set of learning materials for fundamental web technologies. Their curriculum covers web technologies to very granular depths, and is great for those who are new to the web. Mozilla's Developer Network is also home to custom-crafted reference documentation based on the browser differences and specifications around these topics.
 
 ### Programming Basics:
-- [OpenCourseWare](https://ocw.mit.edu/) - Massachusetts Institute of Technology's free computer science and engineering courses
-- [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - Harvard's free Introduction to Computer Science course, hosted through edX
+- [OpenCourseWare](https://ocw.mit.edu/collections/introductory-programming/) - Massachusetts Institute of Technology's free introductory computer science and engineering courses
+- [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - Harvard's free _Introduction to Computer Science_ course, hosted through edX
 - [Python for Everybody](https://www.coursera.org/specializations/python) - University of Michigan's free Python course, hosted through Coursera
-  
+- [SoloLearn](https://www.sololearn.com/en/) - Learn the basics of programming on-the-go via SoloLearn's mobile apps
+
 ### Specializations:
 Here are some additional resources for specializations that may be of interest to you:
 
@@ -59,6 +60,8 @@ Here are some additional resources for specializations that may be of interest t
 #### Anything you can dream of:
 - [FreeCodeCamp's YouTube Channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [Codecademy courses](https://www.codecademy.com/)
+- [No Starch Press Books](https://nostarch.com/)
+- [Packt Books](https://www.packtpub.com/en-us)
   
 ## Asking for help:
 
