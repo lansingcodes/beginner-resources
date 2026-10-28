@@ -85,7 +85,7 @@ For general support, direct your questions to the [Lansing Codes Slack team](htt
 - [Twitter](https://twitter.com/lansingcodes)
 - [Facebook](https://www.facebook.com/lansingcodes)
 - [Website](https://www.lansing.codes)
-- [Newsletter \[currently out of order\]](http://bit.ly/lansing-codes-newsletter)
+- [Newsletter Mailing List](https://codes.us19.list-manage.com/subscribe?u=284c94c0d64272db7f56f4c6d&id=f13ffe3703)
 
 ## License:
 
