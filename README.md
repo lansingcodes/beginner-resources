@@ -2,6 +2,8 @@
 
 Beginner-resources is a repository designed to help beginners get started in the exciting world of development. You will find here helpful tools and resources to get you started on your journey to becoming the best developer you can be. Whether it's for front-end, back-end, mobile development, or anything in between, this collection of resources will help.
 
+Want to suggest a resource or fix a link? Read the [Contributing Guide](.github/CONTRIBUTING.md).
+
 ### Web Development Basics:
 - [The Odin Project](https://www.theodinproject.com/) - The Odin Project is a full-stack curriculum designed to take one from a beginner to professional developer. It's completely free, and serves as a great roadmap to follow during your journey. The Odin Project's curriculum and website are open source, allowing anyone to gain experience by contributing to their GitHub repositories.
 
