@@ -1,0 +1,6 @@
+{
+  "ignorePatterns": [
+    { "pattern": "^https://leetcode\\.com/?$" },
+    { "pattern": "^https://www\\.packtpub\\.com/en-us/?$" }
+  ]
+}
